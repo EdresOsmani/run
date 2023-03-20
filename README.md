@@ -1,2 +1,2 @@
 # run
-//wow very cool subway surfers game 
+wow very cool subway surfers game 
